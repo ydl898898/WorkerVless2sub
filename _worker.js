@@ -45,6 +45,9 @@ let proxyIPs = [
 ];
 let CMproxyIPs = [
 	//{ proxyIP: "proxyip.fxxk.dedyn.io", type: "HK" },
+	{ proxyIP: "aliyun.gitgoogle.com", type: "HK" },
+	{ proxyIP: "us.gitgoogle.com", type: "US" },
+	
 ];
 let BotToken ='';
 let ChatID =''; 
